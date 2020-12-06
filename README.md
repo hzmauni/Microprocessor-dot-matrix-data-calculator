@@ -1,1 +1,1 @@
-# Microprocessor-dot-matrix-data-calculator
+# Microprocessor-scrolling-dot-matrix-display
